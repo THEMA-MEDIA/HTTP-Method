@@ -2,7 +2,7 @@ package HTTP::Method;
 
 =head1 NAME
 
-HTTP::Method - Common properties of HTTP Methods
+HTTP::Method - HTTP Request Method and Common Properties according to RFC 7231
 
 =head1 VERSION
 

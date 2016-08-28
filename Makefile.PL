@@ -10,7 +10,7 @@ WriteMakefile(
     ABSTRACT_FROM    => 'lib/HTTP/Method.pm',
     LICENSE          => 'artistic_2',
     PL_FILES         => {},
-    MIN_PERL_VERSION => 5.006,
+    MIN_PERL_VERSION => 5.008009,
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker'           => 0,
     },

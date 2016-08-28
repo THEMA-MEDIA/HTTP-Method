@@ -6,11 +6,11 @@ HTTP::Method - HTTP Request Method and Common Properties according to RFC 7231
 
 =head1 VERSION
 
-Version 0.01 Alpha 01
+Version 0.01
 
 =cut
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.02';
 
 use strict;
 use warnings;
